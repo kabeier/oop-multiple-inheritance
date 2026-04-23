@@ -111,7 +111,9 @@ class App(Logger, SaveToFile):
 
 # In those cases, prefer composition (objects inside objects).
 
-# Challenge for Students
+# =========================================
+# | Challenge for Students                |
+# =========================================
 
 #  Create a class SmartPhone that inherits from:
 
